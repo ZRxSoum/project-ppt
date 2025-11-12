@@ -111,7 +111,7 @@ export default function AdoptionChart() {
   }, []);
 
   return (
-    <div className="w-full h-[400px] md:h-[500px] bg-neutral-800 p-6 rounded-2xl shadow-lg">
+    <div className="w-full h-full md:h-[500px] bg-neutral-800 p-6 rounded-2xl shadow-lg">
       <canvas ref={chartRef} />
     </div>
   );
