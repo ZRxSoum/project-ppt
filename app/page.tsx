@@ -369,7 +369,6 @@ function Home() {
         // AFE
       }
       <main className="h-9/10 w-9/10 mx-auto bg-neutral-700 my-16 rounded-2xl px-16 py-8 shadow-[0_0_35px_rgba(0,0,0,0.35)] text-yellow-100 flex">
-        <div className="h-full">
           <div className="flex flex-col justify-center-safe">
             <h3 className="text-3xl font-bold mb-4">
               2. Analog Front-End Circuit (AFE)
@@ -438,7 +437,6 @@ function Home() {
               </ol>
             </div>
           </div>
-        </div>
         <div>
           <Image
             className="w-3/3 h-full rounded-2xl p-3"
