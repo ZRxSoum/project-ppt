@@ -878,7 +878,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className="flex h-3/5">
+        <div className="flex h-2/5">
           <Image
             className="w-1/3 rounded-2xl p-3"
             src="/Images/charts.jpg"
