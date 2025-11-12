@@ -24,7 +24,7 @@ function Home() {
             A Real-World Application of Analog & Digital Communications
           </p>
           <p className="p-4">
-            From analog sensor to digital safety signal4how railways prevent
+            From analog sensor to digital safety signal how railways prevent
             collisions through integrated communications technology.
           </p>
           <div className="p-4 italic">
