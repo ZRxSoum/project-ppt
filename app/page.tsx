@@ -884,7 +884,7 @@ function Home() {
             height={1080}
             alt="intro"
           />
-          <div className="w-3/5 p-3">
+          <div className="w-3/5 h-3/5 p-3">
             <AdoptionChart />
           </div>
         </div>
