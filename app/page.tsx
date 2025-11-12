@@ -440,7 +440,7 @@ function Home() {
         <div>
           <Image
             className="w-3/3 h-full rounded-2xl p-3"
-            src="/Images/AFE.jpg"
+            src="/Images/AFE_2.jpg"
             width={1080}
             height={1080}
             alt="intro"
