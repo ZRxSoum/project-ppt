@@ -881,7 +881,7 @@ function Home() {
         <div className="flex h-3/5">
           <Image
             className="w-1/3 rounded-2xl p-3"
-            src="/Images/Charts.jpg"
+            src="/Images/charts.jpg"
             width={1080}
             height={1080}
             alt="intro"
