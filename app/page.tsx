@@ -158,7 +158,7 @@ function Home() {
       }
       <main className="h-9/10 w-9/10 mx-auto bg-neutral-700 my-16 rounded-2xl px-16 py-16 shadow-[0_0_35px_rgba(0,0,0,0.35)] flex flex-col justify-around text-yellow-100">
         <div className="text-3xl font-bold p-4 text-center">
-          Simualtion on Application of Axle Counter
+          Simulation on Application of Axle Counter
         </div>
         <Experience />
       </main>
