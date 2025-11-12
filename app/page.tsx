@@ -32,7 +32,7 @@ function Home() {
             <div>• 2023ETB016 - Soumajit Mandal</div>
             <div>• 2023ETB017 - Ravi Shankar Thakur</div>
             <div>• 2023ETB018 - Srinjoy Adhikary</div>
-            <div>• 2023ETB019 - Rajdip Koley</div>
+            <div>• 2023ETB019 - Rajdeep Koley</div>
             <div>• 2023ETB020 - Sagnik Ganguly</div>
           </div>
         </div>
