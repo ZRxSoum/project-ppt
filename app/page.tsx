@@ -10,24 +10,24 @@ function Home() {
       }
       <main className="h-9/10 w-9/10 mx-auto bg-neutral-700 my-16 rounded-2xl px-16 py-16 shadow-[0_0_35px_rgba(0,0,0,0.35)] flex text-yellow-100">
         <Image
-          className="h-full w-4/11 rounded-2xl"
+          className="h-full w-5/11 rounded-2xl"
           src="/Images/Intro_image.png"
           width={760}
           height={1080}
           alt="intro"
         />
-        <div className="h-full w-7/11 flex flex-col justify-center p-12">
-          <p className="text-3xl font-bold p-4">
+        <div className="h-full w-6/11 flex flex-col justify-center p-12">
+          <p className="text-4xl font-bold p-4">
             Axle Counters in Indian Railways
           </p>
-          <p className="text-xl p-4">
+          <p className="text-xl p-4 italic">
             A Real-World Application of Analog & Digital Communications
           </p>
           <p className="p-4">
             From analog sensor to digital safety signal4how railways prevent
             collisions through integrated communications technology.
           </p>
-          <div className="p-4">
+          <div className="p-4 italic">
             <div>• 2023ETB015 - Soumit Sardar</div>
             <div>• 2023ETB016 - Soumajit Mandal</div>
             <div>• 2023ETB017 - Ravi Shankar Thakur</div>
@@ -141,16 +141,16 @@ function Home() {
         </div>
         <div>
           <div className="text-lg px-4 py-1">
-            <strong>If equal:</strong> Section is CLEAR ³ Signal turns GREEN
+            <strong>If equal:</strong> {" Section is CLEAR --> Signal turns GREEN"}
           </div>
           <div className="text-lg px-4 py-1">
-            <strong>If unequal:</strong> Section is OCCUPIED ³ Signal stays RED
+            <strong>If unequal:</strong> {" Section is OCCUPIED --> Signal stays RED"}
           </div>
         </div>
         <div className="text-lg p-4 flex justify-around font-bold">
-          <div>All-weather reliability</div>
-          <div>Works on any track type</div>
-          <div>Minimal infrastructure needs</div>
+          <div>• All-weather reliability</div>
+          <div>• Works on any track type</div>
+          <div>• Minimal infrastructure needs</div>
         </div>
       </main>
       {
@@ -168,7 +168,7 @@ function Home() {
       }
       <main className="h-9/10 w-9/10 mx-auto bg-neutral-700 my-16 rounded-2xl px-16 py-16 shadow-[0_0_35px_rgba(0,0,0,0.35)] gap-8 flex items-center text-yellow-100">
         <div className=" w-1/2">
-          <div className="text-3xl font-bold text-center">
+          <div className="text-3xl font-bold text-center mt-4">
             Advantages of Axle counter
           </div>
           <div className="p-4 bg-neutral-800 rounded-lg shadow-[0_0_35px_rgba(0,0,0,0.35)] space-y-3">
@@ -191,7 +191,7 @@ function Home() {
           </div>
         </div>
         <div className="w-1/2">
-          <div className="text-3xl font-bold">
+          <div className="text-3xl font-bold text-center mb-4">
             Types of Axle Counter Architectures
           </div>
           <div className="p-4 bg-neutral-800 rounded-lg shadow-[0_0_35px_rgba(0,0,0,0.35)] space-y-2">
